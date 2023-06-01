@@ -14,5 +14,4 @@ Para tal padrão de projeto, implementei um exemplo relacionado a forma de pagam
 débito, pix, pay pal, etc.
 
 ### 3.7.3 Diagrama de Classe do Exemplo
-
 ![img.png](img.png)
